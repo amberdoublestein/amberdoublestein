@@ -2,18 +2,35 @@
 
 ## About Me
 - U.S. Army Intelligence Analyst 
-- Transitioning into Information Technology
-- Currently studying for IT certifications including CompTIA Tech+
-- Interested in Cybersecurity, Cloud, Networking, and IT Support
+- Bachelor of Science in Information Technology
+- Currently completing IT certifications including CompTIA Tech+
+- Passionate about cybersecurity, networking, cloud computing, and IT support
 
 ## Current Learning
 - CompTIA Tech+
 - Networking Fundamentals
-- Cybersecurity Basics
-- AI & IT Tools
+- Cybersecurity Concepts
+- AI Essentials
+- Cloud+
+
+## Technical Skills
+- Networking Basics
+- Hardware & Troubleshooting
+- HTML, CSS, JavaScript
+- GitHub & Version Control
+- Cybersecurity Fundamentals
+- OWASP Security Concepts
+- Basic SQL & Databases
 
 ## Projects
-Coming soon! I am building my IT portfolio while completing certification labs and hands-on projects.
+### Web Development Projects
+- Built responsive websites using HTML, CSS, and JavaScript
+
+### Cybersecurity Projects
+- Security testing and vulnerability analysis using OWASP concepts
+
+### IT Coursework
+- Hands-on experience with networking, hardware, operating systems, and troubleshooting
 
 ## Certifications In Progress
 - CompTIA Tech+
@@ -21,9 +38,14 @@ Coming soon! I am building my IT portfolio while completing certification labs a
 - Network+
 - Security+
 - Certified Ethical Hacker (CEH)
+- Cloud+
+- Microsoft Fundamentals
+- CySA+
+- AI Essentials
 
-## Goals
-My goal is to transition into a remote IT or cybersecurity role where I can continue learning and growing in tech.
+## Career Goals
+Seeking opportunities in IT support, cybersecurity, networking, or cloud technology while continuing to build hands-on technical experience.
 
 ## Connect With Me
+GitHub Portfolio in Progress 🚀
 LinkedIn: www.linkedin.com/in/amber-doublestein-8040a656
