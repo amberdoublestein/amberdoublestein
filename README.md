@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Amber 👋
 
-<!--
-**amberdoublestein/amberdoublestein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- U.S. Army Intelligence Analyst 
+- Transitioning into Information Technology
+- Currently studying for IT certifications including CompTIA Tech+
+- Interested in Cybersecurity, Cloud, Networking, and IT Support
 
-Here are some ideas to get you started:
+## Current Learning
+- CompTIA Tech+
+- Networking Fundamentals
+- Cybersecurity Basics
+- AI & IT Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Coming soon! I am building my IT portfolio while completing certification labs and hands-on projects.
+
+## Certifications In Progress
+- CompTIA Tech+
+- CompTIA A+
+- Network+
+- Security+
+- Certified Ethical Hacker (CEH)
+
+## Goals
+My goal is to transition into a remote IT or cybersecurity role where I can continue learning and growing in tech.
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/amber-doublestein-8040a656
